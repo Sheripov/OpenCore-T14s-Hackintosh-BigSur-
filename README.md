@@ -1,0 +1,1 @@
+# OpenCore-T14s-Hackintosh-BigSur-
